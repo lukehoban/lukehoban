@@ -10,7 +10,7 @@ Welcome 👋.  I'm __Luke Hoban__, currently CTO at [Pulumi](github.com/pulumi/p
 
 * TypeScript Open Source Project: https://github.com/microsoft/TypeScript
 * The First TypeScript Demo: https://medium.com/hackernoon/the-first-typescript-demo-905ea095a70f
-* Anders Heijlsberg & Luke Hoban: Introducing TypeScript: https://www.youtube.com/watch?v=3UTIcQYQ8Rw
+* Anders Hejlsberg & Luke Hoban: Introducing TypeScript: https://www.youtube.com/watch?v=3UTIcQYQ8Rw
 
 ### Pulumi 
 
