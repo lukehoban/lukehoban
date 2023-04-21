@@ -18,6 +18,7 @@ Welcome 👋.  I'm __Luke Hoban__, currently CTO at [Pulumi](github.com/pulumi/p
 * Pulumi Launch Blog: https://medium.com/@lukeh/programming-the-cloud-e795cafffc2b
 * Pulumi Series B: https://www.builtinseattle.com/2020/10/28/pulumi-raises-37m-series-b
 * Pulumi Deployments: https://www.pulumi.com/blog/nov-2022-launches/
+* Pulumi Insights: https://www.pulumi.com/blog/pulumi-insights/
 * Pulumi Universal: https://www.pulumi.com/blog/pulumi-universal-iac/
 * Pulumi YAML: https://www.pulumi.com/blog/pulumi-yaml/
 * AWS CDK on Pulumi: https://www.pulumi.com/blog/aws-cdk-on-pulumi/
@@ -26,7 +27,6 @@ Welcome 👋.  I'm __Luke Hoban__, currently CTO at [Pulumi](github.com/pulumi/p
 * Pulumi 3.0: https://www.pulumi.com/blog/pulumi-3-0/
 * Pulumi Watch: https://www.pulumi.com/blog/pulumi-watch-mode-fast-inner-loop-development-for-cloud-infrastructure/
 * How we Use Pulumi to Build Pulumi: https://www.pulumi.com/blog/how-we-use-pulumi-to-build-pulumi/
-
 
 ### EC2
 
