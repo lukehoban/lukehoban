@@ -59,7 +59,8 @@ Welcome 👋.  I'm __Luke Hoban__, currently CTO at [Pulumi](github.com/pulumi/p
 * Struct Tag Lang (for first LangJam): https://github.com/lukehoban/structtaglang
 * ICFP 2007 programming contest: https://github.com/lukehoban/endo-rust
 * Flow language support for Atom IDE: https://github.com/lukehoban/atom-ide-flow
-* Untyped Lambda Calculus, Church Numerals, and the Y Combinator in Go: https://medium.com/@lukeh/untyped-lambda-calculus-church-numerals-and-the-y-combinator-in-go-e123d076f99d
+* Untyped Lambda Calculus, Church Numerals, and the Y Combinator in Go: https://lukehoban.com/posts/untyped-lambda-calculus/
+* A Fast Path to Modern Phyiscs: https://lukehoban.com/posts/fast-physics/
 * JavaScript engine
 * Monaco running on Windows ARM
 
