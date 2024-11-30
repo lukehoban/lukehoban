@@ -44,7 +44,6 @@ Previously, co-founder of the [TypeScript](https://github.com/Microsoft/TypeScri
 * Go Language Support: https://github.com/golang/vscode-go
 * Announcement of VS Code Extensiblity and Go Extension: https://youtu.be/x4-J1MpMGog
 
-
 ### C# and F#
 
 * F# Interview: https://youtu.be/12i7JpXpet8
@@ -52,14 +51,18 @@ Previously, co-founder of the [TypeScript](https://github.com/Microsoft/TypeScri
 * Blog: Intro to C# Express: https://learn.microsoft.com/en-us/archive/blogs/lukeh/intro-c-express
 * Blog: C# Compiler in Orcas: https://learn.microsoft.com/en-us/archive/blogs/lukeh/the-c-compiler-in-orcas
 
+### AI
+
+* Ten programming language: https://github.com/lukehoban/ten
+* TDD AI: https://github.com/lukehoban/tddai
+* Pulumi GPT: https://github.com/lukehoban/pulumigpt
+
 ## 🎁 Side Projects
 
 * ES6 Language Features (#357 most-starred repo on GitHub :star: ): https://github.com/lukehoban/es6features
 * Go debugger support for Windows: https://github.com/go-delve/delve/pull/276
 * LINQ Raytracer: https://github.com/lukehoban/LINQ-raytracer
 * RISC emulator: https://github.com/lukehoban/rvgo
-* Ten programming language: https://github.com/lukehoban/ten  
-* Pulumi GPT: https://github.com/lukehoban/pulumigpt
 * Struct Tag Lang (for first LangJam): https://github.com/lukehoban/structtaglang
 * ICFP 2007 programming contest: https://github.com/lukehoban/endo-rust
 * Flow language support for Atom IDE: https://github.com/lukehoban/atom-ide-flow
