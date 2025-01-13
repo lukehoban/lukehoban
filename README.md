@@ -2,9 +2,9 @@
 
 Welcome 👋.  
 
-I'm __Luke Hoban__, currently CTO at [Pulumi](github.com/pulumi/pulumi) where I lead our product, engineering, design and data teams in building the future of cloud engineering and infrastructure-as-software ☁️.  
+I'm __Luke Hoban__, VP of Engineering focused on Developer AI at Microsoft.
 
-Previously, co-founder of the [TypeScript](https://github.com/Microsoft/TypeScript) project, representative to the ECMA TC39 standards body working on [ECMAScript/JavaScript](https://github.com/tc39/ecma262), product manager on EC2 at [AWS](https://github.com/aws), and many other developer tools and cloud platform roles.
+Previously, CTO at [Pulumi](github.com/pulumi/pulumi), co-founder of the [TypeScript](https://github.com/Microsoft/TypeScript) project, representative to the ECMA TC39 standards body working on [ECMAScript/JavaScript](https://github.com/tc39/ecma262), product manager on EC2 at [AWS](https://github.com/aws), and many other developer tools and cloud platform roles.
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@lukehoban)](https://twitter.com/lukehoban)
 
