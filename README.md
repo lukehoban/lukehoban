@@ -10,6 +10,11 @@ Previously, CTO at [Pulumi](github.com/pulumi/pulumi), co-founder of the [TypeSc
 
 ## 👨‍💻 Work 
 
+### Developer AI
+
+* "Project Padawan" Blog: https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens
+* SWE Agents Coming to GitHub: https://www.youtube.com/watch?v=VWvV2-XwBMM 
+
 ### TypeScript
 
 * TypeScript Open Source Project: https://github.com/microsoft/TypeScript
