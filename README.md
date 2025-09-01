@@ -2,7 +2,7 @@
 
 Welcome 👋.  
 
-I'm __Luke Hoban__, VP of Engineering at Microsoft focused on Developer AI.
+I'm __Luke Hoban__, VP of Engineering at GitHub and Microsoft focused on Developer AI and GitHub Copilot Agents.
 
 Previously, CTO at [Pulumi](github.com/pulumi/pulumi), co-founder of the [TypeScript](https://github.com/Microsoft/TypeScript) project, representative to the ECMA TC39 standards body working on [ECMAScript/JavaScript](https://github.com/tc39/ecma262), product manager on EC2 at [AWS](https://github.com/aws), and many other developer tools and cloud platform roles.
 
@@ -10,9 +10,11 @@ Previously, CTO at [Pulumi](github.com/pulumi/pulumi), co-founder of the [TypeSc
 
 ## 👨‍💻 Work 
 
-### Developer AI
+### GitHub Copilot Coding Agent
 
-* "Project Padawan" Blog: https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens
+* GitHub Copilot Coding Agent Launch: https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
+* Coding Agent Launch Talk at Microsoft Build: https://youtu.be/TgwpK_ROhqo?feature=shared
+* "Project Padawan" Preview Blog: https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens
 * SWE Agents Coming to GitHub: https://www.youtube.com/watch?v=VWvV2-XwBMM 
 
 ### TypeScript
